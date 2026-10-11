@@ -45,7 +45,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/danzarchive/splitbill.git
+git clone https://github.com/0xRafie/splitbill.git
 cd splitbill
 
 # Install dependencies
@@ -98,7 +98,7 @@ CRON_SECRET="random-secret-for-cleanup"
 ---
 
 <p align="center">
-  Dibuat dengan ❤️ oleh <a href="https://github.com/danzarchive">@danzarchive</a>
+  Dibuat dengan ❤️ oleh <a href="https://github.com/0xRafie">@0xRafie</a>
   <br>
   <a href="https://bayarbill.vercel.app">bayarbill.vercel.app</a>
 </p>
